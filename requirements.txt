@@ -1,0 +1,7 @@
+# Core dependencies
+requests
+python-dotenv
+rich
+questionary
+curl_cffi
+paho-mqtt
